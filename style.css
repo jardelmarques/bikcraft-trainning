@@ -1,0 +1,32 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+html, body { height: 100%;}
+
+body {
+    background-color: #111;
+}
+
+form {
+    background-color: #fff;
+    width: 535px;
+    height: 568.29px;
+    padding: 60px;
+}
+
+.primary-box {
+    display: flex;
+    gap: 20px;
+
+}
+
+.primary-box div input { 
+    width: 100%;
+    padding: 12px 10px 11px 14px;
+    
+
+}
